@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Software development and web development.
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me onumaegbuChima on LinkedIn, and OnumaegbuF on twitter.
+- 📫 How to reach me Chima Onumaegbu on LinkedIn, and @ChilexCodes on twitter.
 
 <!---
 Chilex23/Chilex23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
