@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Onumaegbu Frankline Chima.
 - 👀 I’m interested in  Software development and web development.
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Chima Onumaegbu on LinkedIn, and @ChilexCodes on twitter.
 
